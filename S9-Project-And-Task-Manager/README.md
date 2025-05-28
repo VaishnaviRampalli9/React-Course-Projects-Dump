@@ -2,29 +2,32 @@
 
 This project is a **basic project & task manager**, built to understand the fundamentals of managing state, nested data structures, and component interaction in React.
 
-![No projects](./src/assets/NoProjects.png)
+<img src="./src/assets/NoProjects.png" alt="No projects" width="400" />
 
 ---
 
 #### Features
 
 - **Create and delete projects**  
-  Each project includes a **title**, **description**, and **due date**  
-  ![Add Project](./src/assets/AddProject.png)
+  Each project includes a **title**, **description**, and **due date**
 
-- **Add and delete tasks** within each project  
-  ![Project View](./src/assets/ProjectView.png)
+  <img src="./src/assets/AddProject.png" alt="Add Project" width="400" />
 
-- **Form validation** with error feedback using a modal  
-  ![Error Modal](./src/assets/ErrorModal.png)
+- **Add and delete tasks** within each project
+
+  <img src="./src/assets/ProjectView.png" alt="Project View" width="400" />
+
+- **Form validation** with error feedback using a modal
+
+  <img src="./src/assets/ErrorModal.png" alt="Error Modal" width="400" />
 
 ---
 
 ### Concepts Covered
 
-- Component-based architecture
-- Props and state management
-- Refs and `useImperativeHandle`
-- Error modals using portals
-- List rendering and dynamic updates
+- Component-based architecture  
+- Props and state management  
+- Refs and `useImperativeHandle`  
+- Error modals using portals  
+- List rendering and dynamic updates  
 - **Uncontrolled form inputs** using `useRef` (vs. controlled inputs)

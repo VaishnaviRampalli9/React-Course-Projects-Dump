@@ -1,3 +1,5 @@
-This is an Investment Calculator application created to demonstrate the usage of React components.
+### Project Overview: Investment Calculator
 
-![App Screenshot](./src/assets/App-look.png)
+This is an **Investment Calculator** application created to demonstrate the usage of React components.
+
+<img src="./src/assets/App-look.png" alt="App Screenshot" width="400" />
