@@ -1,9 +1,9 @@
 ### Project Overview: Timer Challenge Game
 
 This project was built to explore and understand the concepts of **`useRef`**, **`useImperativeHandle`**, and **`createPortal`** in React. This is a fun timer challenge game where users can:
-![Initial Look](./src/assets/ProjectHome.png)
+<img src="./src/assets/ProjectHome.png" alt="Initial Look" width="400" />
 * Enter their **name**
-  ![Set Name](./src/assets/SetName.png)
+  <img src="./src/assets/SetName.png" alt="Set Name" width="400" />
   
 * Choose a timer (1s, 5s, 10s, or 15s)
   ![Timers](./src/assets/Timers.png)
